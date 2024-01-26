@@ -38,7 +38,6 @@ Your Trustworthy Partner in Blockchain Validation: Empowering a Secure Future
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
             <a href="https://dexanode.com/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://avatars.githubusercontent.com/u/34649601?v=4">
             </td>
         </tr>
     </tbody>
