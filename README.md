@@ -52,7 +52,7 @@ Your Trustworthy Partner in Blockchain Validation: Empowering a Secure Future
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=dexande&show_icons=true&theme=nightowl"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=dexanode&show_icons=true&theme=nightowl"/>
 <br />
 <br />
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=dexanode&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
