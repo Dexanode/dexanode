@@ -7,12 +7,12 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Dexanode&show_icons=true&theme=nightowl%22/%3E
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Dexanode&show_icons=true&theme=nightowl%22/%3E>
 <br />
 <br />
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexanode&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D%22/%3E
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexanode&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D%22/%3E>
 <br />
 <br />
-   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexanode&layout=compact&theme=nightowl%22/%3E
+   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexanode&layout=compact&theme=nightowl%22/%3E>
   </div>
 </div>
