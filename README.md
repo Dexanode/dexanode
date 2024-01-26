@@ -15,17 +15,6 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <br />
-<h1>dexanode.com</h1>
-<h5><i> &nbsp;D E X A N O D E &nbsp;&nbsp;</h5></i>
-<br />
-<br />
-Your Trustworthy Partner in Blockchain Validation: Empowering a Secure Future
-  </div>
-</div>
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
   You can Send us an email to :dexanode@gmail.com <br />
   <br />
